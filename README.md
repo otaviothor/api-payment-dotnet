@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é uma implementação de uma API de pagamentos com ASP.NET Core, JWT (JSON Web Token), EF Core e Swagger 
+O projeto é uma implementação de uma API de pagamentos feita com .NET Core, JWT (JSON Web Token), EF Core e Swagger e deve ser usado em conjunto da aplicação frontend de pagamentos. [Clique aqui](https://github.com/otaviothor/payment-app-angular) para acessar o repositório.  
 
 ## 🚀 Como executar
 
