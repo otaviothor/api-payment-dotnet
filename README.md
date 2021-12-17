@@ -1,21 +1,23 @@
-<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="./.github/logo.svg" width="400"></a></p>
+<p align="center"><a href="https://dotnet.microsoft.com/" target="_blank"><img src="./.github/dotnet-logo.png" width="400"></a></p>
 
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Tecnologia 1](https://github.com)
-- [Tecnologia 2](https://github.com)
+- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet/)
+- [JWT](https://jwt.io/)
+- [EF Core](https://docs.microsoft.com/en-us/ef/core/)
+- [Swagger](https://swagger.io/)
 
 ## 💻 Projeto
 
-O projeto é uma ...
+O projeto é uma implementação de uma API de pagamentos com ASP.NET Core, JWT (JSON Web Token), EF Core e Swagger 
 
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências com `comando`
-- Inicie o servidor com `comando`
+- Instale as dependências com `dotnet restore`
+- Inicie o servidor com `dotnet watch run`
 
 Agora você pode fazer as requisições que estão no arquivo [`request.http`](request.http).
 
